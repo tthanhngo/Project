@@ -73,6 +73,7 @@ class Client
             listDebit.Add(B.Typecard, B);
             Console.WriteLine("Tao the thanh cong!");
         }
+        //test2
 
     }
 
