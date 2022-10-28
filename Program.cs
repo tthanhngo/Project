@@ -16,7 +16,7 @@ namespace Bank
             A.CreateDebitCard(ListCard[1]);
             A.listDebit[ListCard[0]].RutTien(20);
             A.listDebit[ListCard[1]].Ktratraikhoan();
-
+            //hello
 
         }
     }
